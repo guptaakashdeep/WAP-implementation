@@ -9,4 +9,4 @@ Based on which version of Iceberg you are using. WAP can be implemented in 2 way
 - `aws`: contains the notebooks that show the implementation on AWS
 - `local`: contains the notebooks that can run WAP on a local workstation.
 
-Code explanation and detailed explanation of implementation can be found on my website (here)[https://guptaakashdeep.com/wap-via-apache-iceberg-on-aws].
+Code explanation and detailed explanation of implementation can be found on my website [here(https://guptaakashdeep.com/wap-via-apache-iceberg-on-aws).
